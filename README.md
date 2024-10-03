@@ -1,6 +1,6 @@
 ### Hi, I'm Leonardo 👋
-- Fullstack Developer
 
+I´m a Internet Systems Student and Fullstack Developer.
 
 <p align="center">
   <a href="https://github.com/LeonardoEnnes/github-readme-stats">
