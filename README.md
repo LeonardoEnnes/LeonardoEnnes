@@ -2,15 +2,12 @@
 
 I’m a Fullstack Developer and an Internet Systems student at IFSUL with a passion for creating efficient web applications.
 
-<p align="center">
-  <a href="https://github.com/LeonardoEnnes/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&theme=transparent" />
-  </a>
-  
-  <a href="https://github.com/LeonardoEnnes/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoEnnes&layout=compact&langs_count=8&card_width=250&theme=transparent" />
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoEnnes&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoEnnes&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## 🛠️ My Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
