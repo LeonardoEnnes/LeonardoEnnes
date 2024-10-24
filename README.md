@@ -1,17 +1,18 @@
 ### Hi, I'm Leonardo 👋
 
-I’m an Internet Systems student and Fullstack Developer.
+I’m a Fullstack Developer and an Internet Systems student at IFSUL with a passion for creating efficient web applications.
 
 <p align="center">
   <a href="https://github.com/LeonardoEnnes/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&theme=transparent" />
   </a>
+  
   <a href="https://github.com/LeonardoEnnes/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoEnnes&layout=compact&langs_count=8&card_width=250&theme=transparent" />
   </a>
 </p>
 
-## 🛠️ My Stack
+## 🛠️ My Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
