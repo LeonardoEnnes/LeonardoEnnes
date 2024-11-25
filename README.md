@@ -1,6 +1,6 @@
 ### Hi, I'm Leonardo 👋
 
-I’m a Fullstack Developer and an Internet Systems student at IFSUL with a passion for creating efficient web applications.
+I’m a Fullstack Developer specializing in backend development. Currently studying Internet Systems at IFSUL, I’m passionate about building scalable and efficient applications.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
