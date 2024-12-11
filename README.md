@@ -4,7 +4,6 @@ I’m a Fullstack Developer specializing in backend development. Currently study
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoEnnes&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoEnnes&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠️ My Tech Stack
