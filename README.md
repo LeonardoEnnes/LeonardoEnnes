@@ -4,7 +4,7 @@ I’m a **`Fullstack Software Developer`**  with a focus on Backend development 
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools  
 
 <img align="left" alt="C#" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg"/>  
 <img align="left" alt=".NET" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png"/>  
@@ -34,7 +34,7 @@ I’m a **`Fullstack Software Developer`**  with a focus on Backend development 
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoEnnes&layout=compact&theme=shadow_blue"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&hide=stars&show_icons=true&theme=shadow_blue&include_all_commits=false"/> |  
 | ---- | ---- |  
