@@ -29,6 +29,7 @@ I’m a **`Fullstack Software Developer`**  with a focus on Backend development 
 <img align="left" alt="Docker" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>  
 <img align="left" alt="Kubernetes" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original.svg"/>  
 <img align="left" alt="Terraform" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original.svg"/>  
+<img align="left" alt="aws" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
 <br clear="left"/>  
 
