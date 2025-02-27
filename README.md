@@ -1,4 +1,10 @@
-# Leonardo Ennes
+<h1 align="center">
+  Hi  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" 
+       alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Leonardo Ennes  
+  &nbsp;&nbsp;
+  <img width="100rem" src="https://komarev.com/ghpvc/?username=LeonardoEnnes&color=111111&style=flat-square" alt="Profile views" />
+</h1>
 
 I’m a **`Fullstack Software Developer`**  with a focus on Backend development and a tech enthusiast. Currently pursuing a degree in Internet Systems at IFSUL, I’m passionate about building scalable and efficient applications.  
 
@@ -37,7 +43,12 @@ I’m a **`Fullstack Software Developer`**  with a focus on Backend development 
 
 ## 📊 GitHub Stats  
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoEnnes&layout=compact&theme=shadow_blue"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&hide=stars&show_icons=true&theme=shadow_blue&include_all_commits=false"/> |  
-| ---- | ---- |  
-
+<center>
+  <table>
+    <tr>
+        <td> <img height="180rem" width="500rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&hide=stars&show_icons=true&theme=shadow_blue&include_all_commits=false"/> </td>
+        <td> <img height="180rem" width="500rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoEnnes&layout=compact&theme=shadow_blue"/> </td>
+    </tr>
+  </table>
+</center>
 ---
