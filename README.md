@@ -14,6 +14,7 @@ I’m a **`Fullstack Software Developer`**  with a focus on Backend development 
 
 <img align="left" alt="C#" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg"/>  
 <img align="left" alt=".NET" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png"/>  
+<img align="left" alt="Java" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>  
 <img align="left" alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  
 <img align="left" alt="TypeScript" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg"/>  
 <img align="left" alt="NodeJS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>  
