@@ -39,7 +39,6 @@ I’m a **`Fullstack Software Developer`**  with a focus on Backend development 
 <img align="left" alt="aws" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
 <br clear="left"/>  
----
 
 ## 📊 GitHub Stats  
 
