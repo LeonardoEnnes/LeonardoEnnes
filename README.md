@@ -1,7 +1,6 @@
 <h1 align="center">
-  Hi  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" 
-       alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Leonardo Ennes  
+  Hi, I'm Leonardo Ennes  
+  <img >
   &nbsp;&nbsp;
   <img width="100rem" src="https://komarev.com/ghpvc/?username=LeonardoEnnes&color=111111&style=flat-square" alt="Profile views" />
 </h1>
