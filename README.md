@@ -20,7 +20,6 @@ I’m a **`Fullstack Software Developer`**  with a focus on Backend development 
 <img align="left" alt="React" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"/>  
 <img align="left" alt="MongoDB" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"/>  
 <img align="left" alt="PostgreSQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>  
-<img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>  
 <img align="left" alt="Python" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"/>  
 <img align="left" alt="Git" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>  
 <img align="left" alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>  
