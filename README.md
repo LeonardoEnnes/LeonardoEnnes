@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <h1 align="center">
   Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Leonardo Ennes  
   <img >
@@ -32,7 +33,6 @@ My work and studies are a blend of full-stack development and exploring the fron
 <img align="left" alt="MongoDB" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"/>  
 <img align="left" alt="PostgreSQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>  
 <img align="left" alt="Python" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"/>  
-<img align="left" alt="Git" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>  
 <img align="left" alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>  
 <img align="left" alt="Docker" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>    
 <img align="left" alt="aws" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
@@ -41,12 +41,11 @@ My work and studies are a blend of full-stack development and exploring the fron
 
 ## 📊 GitHub Stats  
 
-<center>
-  <table>
-    <tr>
-        <td> <img height="180rem" width="500rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&hide=stars&show_icons=true&theme=shadow_blue&include_all_commits=false"/> </td>
-        <td> <img height="180rem" width="500rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoEnnes&layout=compact&theme=shadow_blue"/> </td>
-    </tr>
-  </table>
-</center>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoEnnes&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoEnnes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Ennes github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoEnnes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
