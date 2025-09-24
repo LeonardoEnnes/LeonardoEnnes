@@ -15,9 +15,9 @@ I’m a **Software Developer** with a passion for building **robust and scalable
 
 My work and studies are a blend of full-stack development and exploring the frontiers of technology. I'm always eager to dive into new challenges.
 
-* **Fullstack Development:**
-* **Backend & Systems:** 
-* **AI & Machine Learning:** 
+* **Fullstack Development**
+* **Backend & Systems** 
+* **AI & Machine Learning** 
 
 ---
 
