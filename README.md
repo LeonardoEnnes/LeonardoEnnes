@@ -1,11 +1,22 @@
 <h1 align="center">
-  Hi, I'm Leonardo Ennes  
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Leonardo Ennes  
   <img >
   &nbsp;&nbsp;
   <img width="100rem" src="https://komarev.com/ghpvc/?username=LeonardoEnnes&color=111111&style=flat-square" alt="Profile views" />
 </h1>
 
-I’m a **`Fullstack Software Developer`**  with a focus on Backend development and a tech enthusiast. Currently pursuing a degree in Internet Systems at IFSUL, I’m passionate about building scalable and efficient applications.  
+
+I’m a **Software Developer** with a passion for building **robust and scalable systems**. As a tech enthusiast and student at IFSUL, I'm dedicated to creating efficient applications that solve real-world problems.
+
+---
+
+### 💡 My Expertise & Interests
+
+My work and studies are a blend of full-stack development and exploring the frontiers of technology. I'm always eager to dive into new challenges.
+
+* **Fullstack Development:**
+* **Backend & Systems:** 
+* **AI & Machine Learning:** 
 
 ---
 
