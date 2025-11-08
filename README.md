@@ -38,7 +38,7 @@ My work and studies are a blend of full-stack development and exploring the fron
 <img align="left" alt="aws" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> -->
 
 <a href="https://www.linkedin.com/in/leonardoennes/">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,dotnet,ts,js,react,nextjs,tailwind,py,laravel,postgres,mongodb,bash,docker,aws"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,ts,js,react,nextjs,tailwind,py,postgres,mongodb,bash,docker,aws"/>
   </a>
 
 
