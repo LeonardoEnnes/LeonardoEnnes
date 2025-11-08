@@ -23,7 +23,7 @@ My work and studies are a blend of full-stack development and exploring the fron
 
 ## 🛠️ Languages & Tools  
 
-<img align="left" alt="C#" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg"/>  
+<!-- <img align="left" alt="C#" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg"/>  
 <img align="left" alt=".NET" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png"/>  
 <img align="left" alt="Java" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>  
 <img align="left" alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  
@@ -35,7 +35,12 @@ My work and studies are a blend of full-stack development and exploring the fron
 <img align="left" alt="Python" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"/>  
 <img align="left" alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>  
 <img align="left" alt="Docker" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>    
-<img align="left" alt="aws" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="aws" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> -->
+
+<a href="https://www.linkedin.com/in/leonardoennes/">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,dotnet,ts,js,react,nextjs,tailwind,py,laravel,postgres,mongodb,bash,docker,aws"/>
+  </a>
+
 
 <br clear="left"/>  
 
