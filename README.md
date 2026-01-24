@@ -11,16 +11,6 @@ I’m a **Software Developer** with a passion for building **robust and scalable
 
 ---
 
-### 💡 My Expertise & Interests
-
-My work and studies are a blend of full-stack development and exploring the frontiers of technology. I'm always eager to dive into new challenges.
-
-* **Fullstack Development**
-* **Backend Development** 
-* **AI & Machine Learning** 
-
----
-
 ## 🛠️ Languages & Tools  
 
 <!-- <img align="left" alt="C#" width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg"/>  
