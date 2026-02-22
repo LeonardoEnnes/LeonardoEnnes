@@ -28,7 +28,7 @@ I’m a **Software Developer** with a passion for building **robust and scalable
 <img align="left" alt="aws" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> -->
 
 <a href="https://www.linkedin.com/in/leonardoennes/">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,ts,js,react,tailwind,py,postgres,mongodb,docker,aws"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,ts,js,react,tailwind,postgres,mongodb,docker,aws"/>
   </a>
 
 
