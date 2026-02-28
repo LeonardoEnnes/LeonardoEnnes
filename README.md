@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-I’m a **Software Developer** with a passion for building **robust and scalable systems**. As a tech enthusiast and student at IFSUL, I'm dedicated to creating efficient applications that solve real-world problems.
+I’m a **Software Developer** with a passion for building **robust and scalable systems**. As a tech enthusiast and student at IFSUL enroled in Internet Systems, I'm dedicated to creating efficient applications that solve real-world problems.
 
 ---
 
