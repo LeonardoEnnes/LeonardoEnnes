@@ -20,7 +20,7 @@ Software Developer focused on backend engineering, scalable systems, and event-d
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardoennes/">
-      <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,ts,react,tailwind,postgres,prisma,mongodb,docker,aws,nodejs,kafka,linux,python"/>
+      <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,ts,react,tailwind,postgres,mongodb,docker,aws,nodejs,kafka,linux,python"/>
   </a>
 </div>
 
